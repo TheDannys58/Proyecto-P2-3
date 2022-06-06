@@ -1,0 +1,41 @@
+[
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿cual es un ser vivo?",
+        "respuesta": "Arbol",
+        "incorrecta1": "Piedra",
+        "incorrecta2": "Nube",
+        "incorrecta3": "Cielo",
+        "imagen": "https://i.ibb.co/F70bg6y/view-gff50fb0c0-1280.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿Cuantas patas tiene un araña?",
+        "respuesta": "8",
+        "incorrecta1": "6",
+        "incorrecta2": "10",
+        "incorrecta3": "4",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿Cuántos minutos tiene una hora?",
+        "respuesta": "60",
+        "incorrecta1": "30",
+        "incorrecta2": "20",
+        "incorrecta3": "90",
+        "imagen": "https://i.ibb.co/F70bg6y/view-gff50fb0c0-1280.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Ciencias Naturales",
+        "pregunta": "¿Que no vive bajo el agua?",
+        "respuesta": "Perro",
+        "incorrecta1": "Tiburón",
+        "incorrecta2": "Pez",
+        "incorrecta3": "Cocodrilo",
+        "imagen": "https://i.ibb.co/FqcQ9Tb/mar.webp",
+        "objectFit": "cover"
+    }
+]
